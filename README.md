@@ -23,5 +23,5 @@ https://weforum.news-r.org/reference/
 
 Get The Latest Article updates. The World Economic Forum's Agenda articles - Available on Google Play
 
-![Logo](https://lh5.googleusercontent.com/mhQNTayw0YFuyMeHOOqtKYPVKPJjSvfoasNvNIxAqk8hK6n14XrGQnalZylIAQKLlLbuBQFT0CCTW1cRMQl4m3vBfc9XUTQmcgqxHKvPi9aZKoqPMMpIgyRLcqlSKXC2Kg=w1280)
+`Download` (https://play.google.com/store/apps/details?id=com.articleflow)
 
