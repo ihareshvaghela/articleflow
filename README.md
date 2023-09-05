@@ -23,5 +23,5 @@ https://weforum.news-r.org/reference/
 
 Get The Latest Article updates. The World Economic Forum's Agenda articles - Available on Google Play
 
-`Download` (https://play.google.com/store/apps/details?id=com.articleflow)
+`Download` https://play.google.com/store/apps/details?id=com.articleflow
 
